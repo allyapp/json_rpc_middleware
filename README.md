@@ -1,4 +1,4 @@
-# Sinatra JSON RPC 
+# JSON RPC Middleware
 
 This is a simple JSON-RPC middleware to help you creating sinatra micro-services
 
@@ -12,7 +12,7 @@ TODO: Write usage instructions here
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[allyapp/sinatra-json_rpc.
+Bug reports and pull requests are welcome on GitHub at https://github.com/allyapp/json_rpc_middleware
 
 
 ## License
