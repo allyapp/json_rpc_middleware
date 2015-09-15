@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'json_rpc/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "sinatra-json_rpc"
+  spec.name          = "json_rpc"
   spec.version       = JsonRpc::VERSION
   spec.authors       = ["tbueno"]
   spec.email         = ["developers@allyapp.com.com"]
